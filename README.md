@@ -4,11 +4,11 @@ The program is based on the RISC-V architecture and uses open-source tools to te
 
 ##  Basic Details
 
-**Name:** Maaz Mahmood Siddique  
-**College:** KIET Group of Institutions  
-**Email ID:** maazms999@gmail.com  
-**GitHub Profile:** [maazm007](https://github.com/maazm007?tab=repositories)  
-**LinkedIN Profile:** [maazm-ece-vlsi](https://www.linkedin.com/in/maazms-ece-vlsi/)
+**Name:** Nikunj Bhatt
+**College:** Vishwakarma Government Engineering College
+**Email ID:** nikunjbhatt244@gmail.com
+**GitHub Profile:** [Nikunj2608](https://github.com/Nikunj2608)  
+**LinkedIN Profile:** [Nikunj-Bhatt](www.linkedin.com/in/nikunj-bhatt-842845273)
 
 ----------------------------------------------------------------------------------------------------------------
 
