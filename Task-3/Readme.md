@@ -1,4 +1,4 @@
-# File 1: 15 Unique Instructions (in Instruction Type Format)
+# 15 Unique Instructions (in Instruction Type Format)
 
 1. **`li a4, 0`**
    - Instruction Type: `I-Type`
@@ -122,7 +122,7 @@
     - rs1: `s1`
     - funct3: `110`
 
-# File 2: 32-bit Patterns for Instructions
+# 32-bit Patterns for Instructions
 
 1. **`li a4, 0`**
    - **Binary**: `000000000000 01110 000 01110 0010011`
